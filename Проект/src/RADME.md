@@ -20,4 +20,5 @@ cd FinanceTracker
 
 2. Запустите приложение:
 ```bash
-python src/main.py
+python Test-1/проект/src/main.py
+
