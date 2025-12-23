@@ -15,5 +15,9 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/FinanceTracker.git
-cd FinanceTracker
+git clone https://github.com/Mixer-MF/Test-1.git
+cd FinanceTracker 
+
+2. Запустите приложение:
+```bash
+python src/main.py
